@@ -24,6 +24,7 @@ Data visualization is where a given data set is presented in a graphical format.
 ![image](https://github.com/user-attachments/assets/7e77c9cd-0c59-437f-8c06-a91590c41a0d)
 
 # PairPlot
+A pair plot is used to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. It also helps to form some simple classification models by drawing some simple lines or making a linear separation in our data-set.
 ![image](https://github.com/user-attachments/assets/45d90056-5aef-4112-928c-05101f9e84de)
 
 # Boxplot
