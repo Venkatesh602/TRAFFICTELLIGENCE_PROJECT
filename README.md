@@ -21,8 +21,18 @@ Create a Project folder that contains files as shown below
 # HeatMap
 ![image](https://github.com/user-attachments/assets/7e77c9cd-0c59-437f-8c06-a91590c41a0d)
 
-# PaitPlot
+# PairPlot
 ![image](https://github.com/user-attachments/assets/45d90056-5aef-4112-928c-05101f9e84de)
 
 # Boxplot
 ![image](https://github.com/user-attachments/assets/2fccd9d8-8bca-42fe-b99a-c5cb7ed98409)
+
+# Input
+# Before entering Values
+![Screenshot 2025-03-04 020404](https://github.com/user-attachments/assets/addbff92-33af-457b-aa17-2a96573e05a5)
+
+# After entering Details
+![Screenshot 2025-03-04 020510](https://github.com/user-attachments/assets/a644b687-b2bb-40de-b801-05fc28021b69)
+
+# Output
+![Screenshot 2025-03-04 020531](https://github.com/user-attachments/assets/9a4b23af-f2c9-4c19-be76-1e3384afc277)
