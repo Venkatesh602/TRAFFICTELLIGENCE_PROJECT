@@ -1,5 +1,5 @@
 # TRAFFICTELLIGENCE_PROJECT
-traffictelligence: advanced traffic volume estimation with machine learning
+Traffictelligence: Advanced Traffic Volume Estimation with Machine Learning
 
 # Scenario 1: Dynamic Traffic Management
 TrafficTelligence enables dynamic traffic management by providing real-time traffic volume estimations. Transportation authorities can use this information to implement adaptive traffic control systems, adjust signal timings, and optimize lane configurations to reduce congestion and improve traffic flow.
