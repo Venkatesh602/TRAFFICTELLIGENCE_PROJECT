@@ -20,3 +20,9 @@ Create a Project folder that contains files as shown below
 # Data Visualization
 # HeatMap
 ![image](https://github.com/user-attachments/assets/7e77c9cd-0c59-437f-8c06-a91590c41a0d)
+
+# PaitPlot
+![image](https://github.com/user-attachments/assets/45d90056-5aef-4112-928c-05101f9e84de)
+
+# Boxplot
+![image](https://github.com/user-attachments/assets/2fccd9d8-8bca-42fe-b99a-c5cb7ed98409)
