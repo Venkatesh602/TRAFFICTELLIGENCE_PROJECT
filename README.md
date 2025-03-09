@@ -18,6 +18,8 @@ Create a Project folder that contains files as shown below
 ![Screenshot 2025-03-05 111727](https://github.com/user-attachments/assets/b559cb79-9cfa-4b50-99bb-f99654aeb60b)
 
 # Data Visualization
+Data visualization is where a given data set is presented in a graphical format. It helps the detection of patterns, trends and correlations that might go undetected in text-based data.
+
 # HeatMap
 ![image](https://github.com/user-attachments/assets/7e77c9cd-0c59-437f-8c06-a91590c41a0d)
 
