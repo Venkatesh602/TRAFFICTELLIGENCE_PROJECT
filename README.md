@@ -31,7 +31,7 @@ Create a Project folder that contains files as shown below
 # Before entering Values
 ![Screenshot 2025-03-04 020404](https://github.com/user-attachments/assets/addbff92-33af-457b-aa17-2a96573e05a5)
 
-# After entering Details
+# After entering Values
 ![Screenshot 2025-03-04 020510](https://github.com/user-attachments/assets/a644b687-b2bb-40de-b801-05fc28021b69)
 
 # Output
